@@ -53,11 +53,6 @@ This project involves building and training a Convolutional Neural Network to so
 
 4. Follow the steps in the notebook to preprocess data, train the model, and evaluate performance.
 
-## Results
-
-- **Training Accuracy**: [Percentage or graph of training accuracy].
-- **Validation Accuracy**: [Percentage or graph of validation accuracy].
-- **Confusion Matrix**: Visualizes the classification results.
 
 ## Future Improvements
 
