@@ -54,11 +54,6 @@ This project involves building and training a Convolutional Neural Network to so
 4. Follow the steps in the notebook to preprocess data, train the model, and evaluate performance.
 
 
-## Future Improvements
-
-- Enhance the model with advanced techniques like dropout, batch normalization, or regularization.
-- Experiment with data augmentation for better generalization.
-- Try alternative architectures like ResNet, MobileNet, or DenseNet.
 
 ## Contributing
 
